@@ -5,18 +5,13 @@ categories: [crossfit]
 tags: [opex,testing,squat]
 published: true
 ---
-A. Back Squat 1 RM (film): **150kg**
+A. Back Squat 1 RM (film): **150kg**  
+_Rest exactly 10 minutes_
 
-Rest exactly 10 minutes
-
-B. Back Squat @ 30X0 AMRAP @ 85% of A: **127.5kg 8 reps**
-
+B. Back Squat @ 30X0 AMRAP @ 85% of A: **127.5kg 8 reps**  
 +
 
-For time:
-
-30 muscle ups
-
-Score 1 [max unbroken reps]: **8**
-
-Score 2 [time]: **5m47s**
+For time:  
+30 muscle ups  
+Score 1 [max unbroken reps]: **8**  
+Score 2 [time]: **5:47**

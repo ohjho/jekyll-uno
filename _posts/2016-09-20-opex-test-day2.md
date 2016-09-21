@@ -5,11 +5,9 @@ categories: [crossfit]
 tags: [opex,testing,snatch]
 published: true
 ---
-A. Squat Snatch 1 rm (film): **85kg**
+A. Squat Snatch 1 rm (film): **85kg**  
+Rest exactly 2 minutes  
 
-Rest exactly 2 minutes
-
-B. For time:
-25 Squat Snatches @ 77% of A:
-
-25 reps @ 65kg: **5m47s**
+B. For time:  
+25 Squat Snatches @ 77% of A:  
+25 reps @ 65kg: **5:47**

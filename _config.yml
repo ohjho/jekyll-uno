@@ -1,6 +1,6 @@
 # Site settings
 title: Secret Whiteboard #Jekyll-Uno
-description: "exposing JHO's functional fitness crossfit training log" #'Jekyll-Uno - a minimal, responsive theme for Jekyll'
+description: "JHO's functional fitness/ crossfit training log" #'Jekyll-Uno - a minimal, responsive theme for Jekyll'
 url: 'http://ohjho.github.io/jekyll-uno'
 baseurl: '/jekyll-uno/'
 # google_analytics: 'UA-XXXXXX-X'

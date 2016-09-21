@@ -5,13 +5,12 @@ categories: [crossfit]
 tags: [opex,testing,metcon]
 published: true
 ---
-3 sets, each for time:
-row 250m
-15 kbs 32kg
-25 burpees
-15 kbs
-row 250m
+3 sets, each for time:  
+row 250m  
+15 kbs 32kg  
+25 burpees  
+15 kbs  
+row 250m  
+_rest exactly 12 minutes_
 
-rest exactly 12 minutes
-
-Score: 4m38s, 4m44s, 4m45s
+Score: **4:38, 4:44, 4:45**
