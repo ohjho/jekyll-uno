@@ -20,5 +20,6 @@ _rest exactly 90 sec strapped on the rower_
 (all out and set a best 1k time)
 Score: **1:41.8 + 1:46.6= 3:28.4**
 
-[film1]: https://goo.gl/photos/W96z5bYEcSSGn1HUA
+[film1]: https://goo.gl/photos/vqrC6BTmPfmYGZdy6
+[film1']: https://goo.gl/photos/W96z5bYEcSSGn1HUA
 [film2]: https://goo.gl/photos/CGf9EKmvPn7fD3tx7
