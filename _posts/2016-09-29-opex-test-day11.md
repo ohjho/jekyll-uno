@@ -2,7 +2,7 @@
 title:  "Day 11: Power Clean + Accessories"
 date:   2016-09-29 15:04:23
 categories: [crossfit]
-tags: [opex,testing,Clean,Aux]
+tags: [opex,testing,clean,aux]
 published: true
 ---
 A.power clean 1 RM: [**107.5kg**][film1]  
