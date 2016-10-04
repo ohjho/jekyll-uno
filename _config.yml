@@ -15,9 +15,12 @@ author:
 #  linkedin_username:  joshgerdes
 
 social-icons:
-  - title: Crossfit
+  - title: Crossfit Athlete Page
     url: http://games.crossfit.com/athlete/100455
     class: crossfit
+  - title: WodUp (CFA) Athlete Page
+    url: https://wodrack.com/jho
+    class: wodup
 
 defaults:
   -
