@@ -77,6 +77,20 @@
               </li>
             {% endif %}
 
+	    {% for icon in site.social-icons %}
+	      <!-- Custom Social Icons
+		   Reference: DavidEnsigner.com
+		-->
+            <li class="navigation__item">
+	      <a href="{{icon.url}}" title="{{icon.title}}" target="_blank">
+		<i class="icon icon-fitness_center">
+		{% include {{ icon.class | prepend: 'social-icons/' | append: '.svg' }} %}
+		</i>
+		<span class="label">{{icon.title}}</span>
+		</a>
+	    </li>
+	    {% endfor %}
+
             <!-- RSS -->
             <li class="navigation__item">
               <a href="{{ "feed.xml" | prepend: site.baseurl }}" title="Subscribe" target="_blank">
