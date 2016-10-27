@@ -5,8 +5,10 @@ categories: [crossfit]
 tags: [comp, snatch]
 published: true
 ---
-hit snatch PR: 90kg !!!
+[Photo of the day][link1] by Mike Szeto  
 
-[Photo of the day][link1] by Mike Szeto
+hit snatch PR: 90kg !!!  
+
+{% youtube: zTV2qeyi0C8 %}  
 
 [link1]: https://goo.gl/photos/YUAWsdo1cedrh1bL6
