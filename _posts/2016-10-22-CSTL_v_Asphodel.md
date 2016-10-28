@@ -2,7 +2,7 @@
 title:  "Inter-gym comp: CSTL v Asphodel"
 date:   2016-10-22 15:04:23
 categories: [crossfit]
-tags: [comp, snatch]
+tags: [comp, snatch, video]
 published: true
 youtubeId: zTV2qeyi0C8
 ---
