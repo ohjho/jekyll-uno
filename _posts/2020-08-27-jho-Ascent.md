@@ -12,37 +12,42 @@ In 9 minutes work on strict bar MUs
 
 ### B: Power
 EMOMx9: (1-2-3) Front Squat + Split Jerk
+
 * 3 bottom quarter squats, 2 upper quarter squats, 1 Split Jerk
 
 #### Log
 
 |       | loads |
-| ----- | ----- |
-| week1 | ?     |
-| week2 | ?     |
-| week3 | ?     |
-| week4 | ?     |
+| ----- | -----:|
+| week1 |     ? |
+| week2 |     ? |
+| week3 |     ? |
+| week4 |     ? |
 
 ### C: Back Squat
 Modified [5-3-1 Wendler][link_wendler], assuming 1RM of 160kg
+
 #### Log
-|       | Reps  | %                | Loads         | Max Reps |
-| ----- | ----- | ---------------- | ------------- | -------- |
-| week1 | 5     | 0.65, 0.75, 0.85 | 105, 120, 135 | 120 x ?  |
-| week2 | 3     | 0.7, 0.8, 0.9    |               |          |
+
+|       | Reps  |        %         |     Loads     | Max Reps |
+| ----- |:-----:|:----------------:|:-------------:| --------:|
+| week1 |   5   | 0.65, 0.75, 0.85 | 105, 120, 135 |  120 x ? |
+| week2 |   3   |  0.7, 0.8, 0.9   |               |          |
 | week3 | 5,3,1 | 0.75, 0.85, 0.95 |               |          |
-| week4 | ?     |                  |               |          |
+| week4 |   ?   |                  |               |          |
 
 ### D: Weight PullUp Complex
 4 sets of 4 weighted PUs, 2 Bias PUs (per side)
 * plus max kipping PUs on the last set
+
 #### Log
+
 |       | loads |
-| ----- | ----- |
-| week1 | ?     |
-| week2 | ?     |
-| week3 | ?     |
-| week4 | ?     |
+| ----- | -----:|
+| week1 |     ? |
+| week2 |     ? |
+| week3 |     ? |
+| week4 |     ? |
 
 
 
