@@ -14,6 +14,7 @@ In 9 minutes work on strict bar MUs
 EMOMx9: (1-2-3) Front Squat + Split Jerk
 * 3 bottom quarter squats, 2 upper quarter squats, 1 Split Jerk
 #### Log
+
 |       | loads |
 | ----- | ----- |
 | week1 | ?     |
